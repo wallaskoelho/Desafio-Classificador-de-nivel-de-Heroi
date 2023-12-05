@@ -1,2 +1,2 @@
-import {classificador} from "./classificador.js";
+import {xpHeroi} from "./classificador.js";
 
