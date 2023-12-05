@@ -1,2 +1,2 @@
-import {xpHeroi} from "./classificador.js";
+import {maim} from "./classificador.js";
 
